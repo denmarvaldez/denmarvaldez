@@ -13,10 +13,10 @@
 
 ### I'm currently a 3rd Year Computer Science student at the [Polytechnic University of the Philippines](https://www.pup.edu.ph/)<br/>
 
-- 📊 I'm an aspiring Data Scientist because I love statistics </br>
-- 🧠 At the moment, I'm currently learning Machine Learning, LLMs, and Natural Language Processing.
+- I'm an aspiring Data Scientist because I love statistics </br>
+- At the moment, I'm currently learning Machine Learning, LLMs, and Natural Language Processing.
 
-## 🧰 Language and Tools 🔧
+## Language and Tools 
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"/>
 <img align="left" alt="Github" width="50px" style="padding-right:10px;" src="https://github.com/OneTongue/OneTongue/blob/main/assets/github-mark-white.svg"/>
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
